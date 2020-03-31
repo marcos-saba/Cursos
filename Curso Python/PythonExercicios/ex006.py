@@ -1,0 +1,5 @@
+print('='*5, 'Exercício 006', '='*5)
+n = int(input(' Digite um número: '))
+print(' O número digitado foi: {}. \n seu dobro é: {}. \n seu triplo é: {}.'.format(n, (n*2), (n*3)))
+print(' sua raiz quadrada é: {:.3f}.'.format((n**(1/2))))
+print('='*10, 'Fim', '='*10)
