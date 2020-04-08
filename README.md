@@ -1,2 +1,2 @@
 # Cursos
- Repositório para meus cursos
+ Repositório para meus exercícios e cursos no Curso em Vídeo do Gustavo Guanabara.
